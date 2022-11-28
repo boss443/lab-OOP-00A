@@ -1,0 +1,15 @@
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\bin\Debug\net6.0\Lab OOP 00A.exe
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\bin\Debug\net6.0\Lab OOP 00A.deps.json
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\bin\Debug\net6.0\Lab OOP 00A.runtimeconfig.json
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\bin\Debug\net6.0\Lab OOP 00A.dll
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\bin\Debug\net6.0\Lab OOP 00A.pdb
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\obj\Debug\net6.0\Lab OOP 00A.csproj.AssemblyReference.cache
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\obj\Debug\net6.0\Lab OOP 00A.GeneratedMSBuildEditorConfig.editorconfig
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\obj\Debug\net6.0\Lab OOP 00A.AssemblyInfoInputs.cache
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\obj\Debug\net6.0\Lab OOP 00A.AssemblyInfo.cs
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\obj\Debug\net6.0\Lab OOP 00A.csproj.CoreCompileInputs.cache
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\obj\Debug\net6.0\Lab OOP 00A.dll
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\obj\Debug\net6.0\refint\Lab OOP 00A.dll
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\obj\Debug\net6.0\Lab OOP 00A.pdb
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\obj\Debug\net6.0\Lab OOP 00A.genruntimeconfig.cache
+D:\source code\lab-OOP-00A\Lab OOP 00A\Lab OOP 00A\obj\Debug\net6.0\ref\Lab OOP 00A.dll
